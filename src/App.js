@@ -13,7 +13,8 @@ import ExpenseList from './components/ExpenseList';
 
 import { AppProvider } from './context/AppContext';
 import AllocationForm from './components/AllocationForm';
-import ExpenseItem from './components/ExpenseItem';
+// import ExpenseItem from './components/ExpenseItem';
+
 const App = () => {
     return (
         <AppProvider>
